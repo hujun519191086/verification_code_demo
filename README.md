@@ -8,3 +8,6 @@ springboot为载体的滑动拼图验证码demo</br>
 
 
 https://blog.csdn.net/qq_41733192/article/details/108025359
+
+
+https://www.cnblogs.com/lgjlife/p/12604121.html
